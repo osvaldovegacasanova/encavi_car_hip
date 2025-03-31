@@ -1,6 +1,6 @@
-# Análisis y Clasificación de Enfermedad Cardiana e Hipertensión 🧠🩺
+# Análisis y Clasificación de Enfermedad Cardiaca e Hipertensión 🧠🩺
 
-Este proyecto utiliza datos de la Encuesta Nacional de Calidad de Vida y Salud (ENCAVI) 2016 para predecir la presencia de enfermedades crónicas mediante un modelo de Random Forest, aplicando técnicas de balanceo y validación cruzada.
+Este proyecto utiliza datos de la Encuesta Nacional de Calidad de Vida y Salud (ENCAVI) 2016 para predecir la presencia de enfermedad cardiaca e hipertensión mediante un modelo de Random Forest, aplicando técnicas de balanceo y validación cruzada.
 
 ## 🔍 Objetivos
 
