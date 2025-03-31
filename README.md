@@ -1,6 +1,6 @@
-# Análisis y Clasificación de Enfermedades Crónicas - ENCAVI 2025 🧠🩺
+# Análisis y Clasificación de Enfermedad Cardiana e Hipertensión 🧠🩺
 
-Este proyecto utiliza datos de la Encuesta Nacional de Calidad de Vida y Salud (ENCAVI) 2025 para predecir la presencia de enfermedades crónicas mediante un modelo de Random Forest, aplicando técnicas de balanceo y validación cruzada.
+Este proyecto utiliza datos de la Encuesta Nacional de Calidad de Vida y Salud (ENCAVI) 2016 para predecir la presencia de enfermedades crónicas mediante un modelo de Random Forest, aplicando técnicas de balanceo y validación cruzada.
 
 ## 🔍 Objetivos
 
@@ -37,10 +37,9 @@ encavi2025RF/
 pip install -r requirements.txt
 ```
 
-3. Coloca los archivos CSV (`encavi_reducido_convertido.csv` y `diccionario_columnas.csv`) dentro de la carpeta `data/`.
+3. Ubica los archivos CSV (`encavi_reducido_convertido.csv` y `diccionario_columnas.csv`) dentro de la carpeta `data/`.
 4. Abre el notebook `encavi2025RF.ipynb` en Jupyter o VSCode.
 
 ## 📌 Notas
 
 - El proyecto está estructurado para fácil extensibilidad hacia otros modelos (XGBoost, redes neuronales, etc.).
-- Se puede adaptar para análisis por comuna, grupo etario o factor de riesgo específico.
