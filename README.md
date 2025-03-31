@@ -111,4 +111,3 @@ pip install -r requirements.txt
 ## 📌 Notas
 
 - El proyecto está estructurado para fácil extensibilidad hacia otros modelos (XGBoost, redes neuronales, etc.).
-- Se puede adaptar para análisis por comuna, grupo etario o factor de riesgo específico.
