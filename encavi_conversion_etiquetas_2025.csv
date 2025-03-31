@@ -1,0 +1,37 @@
+ORIGINAL;TRADUCCION;OBS;REDUCCION
+SEXO_ENCUESTADO;Sexo;;v1
+EDAD_ENCUESTADO;Edad;;v2
+P2_6_SUMA_SEMANALES_EST;hrs_trab;Horas trabajadas;v3
+P2_8;dom_trab;Domingos trabajados;v4
+P3_16;calidad_sueño;Calidad sue;v5
+P3_17;hrs_sueño;Horas de sue;v6
+P5_3_A;fam_hip;Familiar hipertension;v7
+P5_3_B;fam_dia;Familiar diabetes;v8
+P5_3_C;fam_car;Familiar cardiaca;v9
+P5_3_D;fam_vas;Familiar vascular;v10
+P5_3_E;fam_res;Familiar respiratorio;v11
+P6_1_A;frec_desayuno;Frec Desayuno;v12
+P6_1_B;frec_almuerzo;Frec Almuerzo;v13
+P6_1_C;frec_once;Frec Once;v14
+P6_1_D;frec_cena;Frec Cena;v15
+P6_12;exp_cigarro_hogar;Exp cigarro hogar;v16
+P6_13;exp_cigarro_trab;Exp cigarro trabajo;v17
+P6_14;fumador;Fumador;v18
+P6_16;frec_alcohol;Frec Alcohol;v19
+P6_2;dias_act_fisica_int;Actividad física intensa;v21
+P6_4;dias_act_fisica_mod;Actividad fisica moderada;v22
+P6_6;dias_caminata;Caminata 10 minutos;v23
+P6_8_HORAS;horas_sentado_dia;Horas sentado al dia;v24
+P6_30_A_1;ver;dias_consumo_verduras;v25
+P6_30_B_1;leg;dias_consumo_legumbres;v26
+P6_30_C_1;fru;dias_consumo_frutas;v27
+P6_30_D_1;pes;dias_consumo_pescado;v28
+P6_30_E_1;lac;dias_consumo_lacteos;v29
+P6_30_F_1;baz;dias_consumo_bebidas;v30
+P6_30_G_1;pan;dias_consumo_pan;v31
+P6_30_H_1;agu;dias_consumo_agua;v32
+P5_2_A_1;hip;hipertension;hip
+P5_2_B_1;dia;diabetes;dia
+P5_2_C_1;car;enfermedad cardiaca;car
+P5_2_D_1;vas;accidente vascular;vas
+P5_2_E_1;res;respiratoria cronica;res
