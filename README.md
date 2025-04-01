@@ -1,6 +1,8 @@
 # Análisis y Clasificación de Enfermedad Cardiaca e Hipertensión - ENCAVI 2015-2016 🧠🩺
 
-Este proyecto utiliza datos de la Encuesta Nacional de Calidad de Vida y Salud ENCAVI 2015-2016 para predecir la presencia de enfermedad cardiaca e hipertensión mediante un modelo de Random Forest, aplicando técnicas de balanceo y validación cruzada.
+Proyecto realizado usando datos públicos de la Encuesta Nacional de Calidad de Vida y Salud ENCAVI 2015-16 realizada por el Departamento de Epidemiología, Ministerio de Salud de Chile con el objetivo de detectar patrones conductuales que afectan la probabilidad de desarrollo de enfermedades .
+
+Se ha hecho una selección de variables para predecir la presencia de enfermedad cardiaca e hipertensión mediante un modelo de Random Forest, aplicando técnicas de balanceo y validación cruzada. det
 
 El dataset a cargar es una reducción de variables de la encuesta original (ENCAVI 2015-2016) encontrada en 
 [https://epi.minsal.cl/resultados-encuestas/](https://epi.minsal.cl/wp-content/uploads/2017/06/Resultados_Abril2017_ENCAVI_2015-16_Depto_Epidemiolog%C3%ADa_MINSAL.pdf)
